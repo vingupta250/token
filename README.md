@@ -1,1 +1,1 @@
-# token: "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"
+# token: "tokenis :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"
